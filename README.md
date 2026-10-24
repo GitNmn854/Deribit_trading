@@ -67,7 +67,7 @@ vcpkg install curl openssl nlohmann-json websocketpp
 1.  **Clone and set up the project**:
 
     ```bash
-    git clone [https://github.com/ankitkum262/deribit_trading.git](https://github.com/ankitkum262/deribit_trading.git)
+    git clone [https://github.com/GitNmn854/Deribit_trading.git](https://github.com/GitNmn854/Deribit_trading.git)
     cd deribit_trading
     mkdir build && cd build
     ```
